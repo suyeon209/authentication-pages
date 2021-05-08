@@ -25,7 +25,7 @@
    7. 경력은 없거나 몇 년인지 넣을 수 있습니다. 즉, 없음, 있음 선택을 할 수 있고 있음을 선택하면 몇 년의 경력을 갖고있는지 입력할 수 있습니다. 입력되지 않으면 회원가입을 할 수 없습니다.
    8. 직종은 다음 중 하나를 선택할 수 있도록 합니다. 선택하지 않으면 회원가입을 할 수 없습니다.
       - 개발, 경영/비즈니스, 마케팅/광고, 디자인, 영업, 고객서비스/리테일, 미디어, 인사, 게임 제작, 금융, 엔지니어링/설계, 물류/무역, 제조/생산, 의료/제약/바이오, 교육, 식/음료, 법률/법집행기관, 건설/시설, 공공/복지, 기타
-  3. 디자인은 다음을 참고
-     - Vanilla Javascript를 사용한다면 [Google Material Design System](https://material.io/components?platform=web)를 사용합니다.
-     - React를 사용한다면 [Ant Design](https://ant.design/docs/react/introduce)를 사용합니다.
-     - 바로 가져와서 사용하거나 참고해서 직접 HTML, CSS를 작성해도 됩니다.
+3. 디자인은 다음을 참고
+   - Vanilla Javascript를 사용한다면 [Google Material Design System](https://material.io/components?platform=web)를 사용합니다.
+   - React를 사용한다면 [Ant Design](https://ant.design/docs/react/introduce)를 사용합니다.
+   - 바로 가져와서 사용하거나 참고해서 직접 HTML, CSS를 작성해도 됩니다.
